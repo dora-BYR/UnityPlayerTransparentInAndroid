@@ -1,0 +1,4 @@
+com/ym/TestProject2/BuildConfig.java
+ com.ym.TestProject2.BuildConfig
+com/ym/TestProject2/MainActivity.java
+ com.ym.TestProject2.MainActivity

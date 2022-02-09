@@ -1,0 +1,188 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ym.TestProject2"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0.2" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:7:5-12:40
+13        android:anyDensity="true"
+13-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:8:9-34
+14        android:largeScreens="true"
+14-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:9:9-36
+15        android:normalScreens="true"
+15-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:10:9-37
+16        android:smallScreens="true"
+16-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:11:9-36
+17        android:xlargeScreens="true" />
+17-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:12:9-37
+18
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:14:5-79
+19-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:14:22-76
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:15:5-67
+20-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:15:22-64
+21
+22    <uses-feature android:glEsVersion="0x00030000" />
+22-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-54
+22-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-51
+23    <uses-feature
+23-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:36
+24        android:name="android.hardware.vulkan.version"
+24-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-55
+25        android:required="false" />
+25-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-33
+26    <uses-feature
+26-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-21:36
+27        android:name="android.hardware.touchscreen"
+27-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-52
+28        android:required="false" />
+28-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-33
+29    <uses-feature
+29-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-24:36
+30        android:name="android.hardware.touchscreen.multitouch"
+30-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-63
+31        android:required="false" />
+31-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-33
+32    <uses-feature
+32-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-27:36
+33        android:name="android.hardware.touchscreen.multitouch.distinct"
+33-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-72
+34        android:required="false" />
+34-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-33
+35
+36    <application
+36-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:17:5-33:19
+37        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+37-->[com.android.support:support-compat:28.0.0] C:\Users\hello-ID\.gradle\caches\transforms-3\cd3fcc1ae7e4591e71ffa2d63ffa1fa6\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+38        android:debuggable="true"
+39        android:extractNativeLibs="true"
+39-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:18-50
+40        android:icon="@mipmap/app_icon"
+40-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:18:9-40
+41        android:label="@string/app_name"
+41-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:19:9-41
+42        android:testOnly="true" >
+43        <activity
+43-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:20:9-27:20
+44            android:name="com.ym.TestProject2.MainActivity"
+44-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:21:13-41
+45            android:exported="true" >
+45-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:22:13-36
+46            <intent-filter>
+46-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:23:13-26:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:24:17-69
+47-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:24:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:25:17-77
+49-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:25:27-74
+50            </intent-filter>
+51        </activity>
+52
+53        <meta-data
+53-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:29:9-31:47
+54            android:name="unity.builder"
+54-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:30:13-41
+55            android:value="\12370095434544" />
+55-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:31:13-44
+56        <meta-data
+56-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:32:9-80
+57            android:name="android.notch_support"
+57-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:32:20-56
+58            android:value="true" />
+58-->D:\longhui\study\unity\testProjects\unityProject2\launcher\src\main\AndroidManifest.xml:32:57-77
+59
+60        <activity
+60-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-48:20
+61            android:name="com.unity3d.player.UnityPlayerActivity"
+61-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-66
+62            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+62-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-194
+63            android:hardwareAccelerated="false"
+63-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-48
+64            android:launchMode="singleTask"
+64-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-44
+65            android:resizeableActivity="false"
+65-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-47
+66            android:screenOrientation="fullSensor"
+66-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-51
+67            android:theme="@style/UnityThemeSelector" >
+67-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-54
+68
+69            <!-- <intent-filter> -->
+70            <!-- <action android:name="android.intent.action.MAIN" /> -->
+71            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+72            <!-- </intent-filter> -->
+73            <!-- <meta-data android:name="unityplayer.UnityActivity" android:value="true" /> -->
+74            <meta-data
+74-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-46:40
+75                android:name="MyUnityplayer.UnityActivity"
+75-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:17-59
+76                android:value="true" />
+76-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-37
+77            <!-- <meta-data android:name="android.notch_support" android:value="true" /> -->
+78        </activity>
+79
+80        <meta-data
+80-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:9-52:33
+81            android:name="unity.splash-mode"
+81-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-45
+82            android:value="0" />
+82-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:13-30
+83        <meta-data
+83-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:9-55:36
+84            android:name="unity.splash-enable"
+84-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-47
+85            android:value="True" />
+85-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:13-33
+86        <meta-data
+86-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:9-58:36
+87            android:name="unity.launch-fullscreen"
+87-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-51
+88            android:value="True" />
+88-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-33
+89        <meta-data
+89-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:9-61:37
+90            android:name="unity.allow-resizable-window"
+90-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-56
+91            android:value="False" />
+91-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-34
+92        <meta-data
+92-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:9-64:50
+93            android:name="notch.config"
+93-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-40
+94            android:value="portrait|landscape" />
+94-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-47
+95
+96        <receiver
+96-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:9-68:39
+97            android:name="com.unity.androidnotifications.UnityNotificationManager"
+97-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-83
+98            android:exported="true" />
+98-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-36
+99        <receiver
+99-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:9-75:20
+100            android:name="com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver"
+100-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-97
+101            android:enabled="false" >
+101-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-36
+102            <intent-filter>
+102-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-74:29
+103                <action android:name="android.intent.action.BOOT_COMPLETED" />
+103-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:17-79
+103-->[:unityLibrary] D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:25-76
+104            </intent-filter>
+105        </receiver>
+106    </application>
+107
+108</manifest>

@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg
+id frame_2
+id frame_unity
+layout activity_unity
+style BaseUnityTheme
+style MyBaseUnityTheme
+style MyUnityThemeSelector
+style MyUnityThemeSelector.Translucent
+style UnityThemeSelector
+style UnityThemeSelector.Translucent

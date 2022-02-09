@@ -1,0 +1,18 @@
+com/unity3d/player/BuildConfig.java
+ com.unity3d.player.BuildConfig
+com/unity/androidnotifications/UnityNotificationManagerOreo.java
+ com.unity.androidnotifications.UnityNotificationManagerOreo
+com/unity/androidnotifications/UnityNotificationUtilities.java
+ com.unity.androidnotifications.UnityNotificationUtilities
+com/unity/androidnotifications/NotificationCallback.java
+ com.unity.androidnotifications.NotificationCallback
+com/unity/androidnotifications/UnityNotificationManager.java
+ com.unity.androidnotifications.UnityNotificationManager
+com/unity/androidnotifications/UnityNotificationRestartOnBootReceiver.java
+ com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver
+com/unity/androidnotifications/NotificationChannelWrapper.java
+ com.unity.androidnotifications.NotificationChannelWrapper
+com/unity3d/player/UnityPlayerActivity.java
+ com.unity3d.player.UnityPlayerActivity
+com/unity3d/player/MyUnityPlayer.java
+ com.unity3d.player.MyUnityPlayer

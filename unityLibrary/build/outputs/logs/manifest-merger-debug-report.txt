@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	android:versionCode
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:3:3-24:17
+	android:extractNativeLibs
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:4:5-12:16
+	android:screenOrientation
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:4:111-149
+	android:launchMode
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:4:150-181
+	android:hardwareAccelerated
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:4:399-434
+	android:resizeableActivity
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:4:364-398
+	android:configChanges
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:4:182-363
+	android:theme
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:4:69-110
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:4:15-68
+meta-data#MyUnityplayer.UnityActivity
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:10:9-86
+	android:value
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:10:63-83
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:10:20-62
+meta-data#unity.splash-mode
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:13:5-69
+	android:value
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:13:49-66
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:13:16-48
+meta-data#unity.splash-enable
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:14:5-74
+	android:value
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:14:51-71
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:14:16-50
+meta-data#unity.launch-fullscreen
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:15:5-78
+	android:value
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:15:55-75
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:15:16-54
+meta-data#unity.allow-resizable-window
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:16:5-84
+	android:value
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:16:60-81
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:16:16-59
+meta-data#notch.config
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:17:5-81
+	android:value
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:17:44-78
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:17:16-43
+receiver#com.unity.androidnotifications.UnityNotificationManager
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:18:5-112
+	android:exported
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:18:86-109
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:18:15-85
+receiver#com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:19:5-23:16
+	android:enabled
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:19:100-123
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:19:15-99
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:20:7-22:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:21:9-71
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:21:17-68
+uses-feature#0x00030000
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:25:3-52
+	android:glEsVersion
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:25:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:26:3-91
+	android:required
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:26:64-88
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:26:17-63
+uses-permission#android.permission.INTERNET
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:27:3-65
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:27:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:28:3-88
+	android:required
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:28:61-85
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:28:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:29:3-99
+	android:required
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:29:72-96
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:29:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:30:3-108
+	android:required
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:30:81-105
+	android:name
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml:30:17-80
+uses-sdk
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\longhui\study\unity\testProjects\unityProject2\unityLibrary\src\main\AndroidManifest.xml

@@ -1,0 +1,10 @@
+#Tue Feb 08 20:12:46 CST 2022
+base.2=D\:\\longhui\\study\\unity\\testProjects\\unityProject2\\launcher\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_0.dex
+path.2=classes_0.dex
+base.1=D\:\\longhui\\study\\unity\\testProjects\\unityProject2\\launcher\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=D\:\\longhui\\study\\unity\\testProjects\\unityProject2\\launcher\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
